@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jamie]]></title>
+        <description><![CDATA[Jamie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 00:31:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice Beach Sunset]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89a1c57a-52ee-4816-b18a-61f966eeacbf.jpg">]]></description>
+            <link>undefinedvenice-beach-sunset/index.html</link>
+            <guid isPermaLink="false">0d09ced6-c525-47e4-a093-eef7b69c638e</guid>
+            <pubDate>Sat, 25 Jun 2016 00:31:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
